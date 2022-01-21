@@ -2,9 +2,28 @@
 .info-background {
     background-color: #FCEAE8;
 }
-#subscribe{
+
+#subscribe {
     height: 250px;
 }
 
+.category-img {
+    width: 100px;
+}
 
+.buy-now-btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius:  8px;
+    padding: 9px 25px;
+    border: 0;
+}
+.subscribe-btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius:  8px;
+    border-top: 0;
+    padding: 9px 25px;
+    border: none;
+}
 
